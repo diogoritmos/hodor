@@ -1,4 +1,4 @@
-package com.example.plugins
+package com.diogoritmos.plugins
 
 class RateLimiter {
     private val MAXIMUM_ENTRANCES = 2

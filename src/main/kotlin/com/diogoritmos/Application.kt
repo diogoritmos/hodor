@@ -1,6 +1,6 @@
-package com.example
+package com.diogoritmos
 
-import com.example.plugins.*
+import com.diogoritmos.plugins.*
 import io.ktor.server.application.*
 
 fun main(args: Array<String>) {

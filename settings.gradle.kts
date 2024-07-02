@@ -1,1 +1,1 @@
-rootProject.name = "com.example.hodor"
+rootProject.name = "com.diogoritmos.hodor"
